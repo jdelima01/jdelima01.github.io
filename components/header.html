@@ -1,0 +1,88 @@
+<div class="page_top_separator"></div>
+<div id="header">
+    <div id="header_content">
+        <div id="header_title">Green Label</div>
+    </div>
+</div>
+
+<div class="page_section_separator"></div>
+
+<div id="top_menu">
+    <div id="top_menu_content">
+        <div class="top_menu_item"><a href="#">Home</a></div>
+        <div class="top_menu_item_separator">|</div>
+        <div class="top_menu_item"><a href="#">About</a></div>
+        <div class="top_menu_item_separator">|</div>
+    </div>
+</div>
+
+<style>
+    #header {
+        background-color: var(--dd-gray-bg);
+        color: var(--dd-gray-bg)
+            /*green*/
+        ;
+        margin: 0;
+        padding: 0;
+    }
+
+    #header_content {
+        padding: 1.25em;
+    }
+
+    #header_title {
+        font-size: 2.5em;
+        font-weight: 800;
+        text-shadow: 2px 0 green, -2px 0 green, 0 2px green, 0 -2px green,
+            1px 1px green, -1px 1px green, 1px -1px green, -1px -1px green;
+    }
+
+
+    .page_top_separator {
+        background-color: var(--l-green-saparator);
+        height: 0.05em;
+        width: 100vw;
+    }
+
+    .page_section_separator {
+        background-color: var(--d-gay-topbot-sep);
+        height: 0.1em;
+        width: 100vw;
+    }
+
+
+    #top_menu {
+        background-color: var(--menu-bg);
+        max-width: 75vw;
+        align-self: center;
+        margin-left: auto;
+        margin-right: auto;
+        align-items: center;
+        border-radius: 0 0 10px 10px;
+    }
+
+    #top_menu_content {
+        padding-left: 1.25em;
+        vertical-align: middle;
+        display: inline-flex;
+
+        line-height: 1.75em;
+    }
+
+    .top_menu_item>a {
+        text-decoration: none;
+        color: var(--menu-item);
+        cursor: pointer;
+
+    }
+
+    .top_menu_item>a:hover {
+        color: var(--menu-item-hover);
+    }
+
+    .top_menu_item_separator {
+        padding-left: 2em;
+        padding-right: 2em;
+        color: var(--menu-item);
+    }
+</style>

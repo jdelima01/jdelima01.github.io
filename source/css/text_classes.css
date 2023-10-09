@@ -1,0 +1,23 @@
+@font-face {
+    font-family: play-reg;
+    src: url(/source/fonts/Play/Play-Regular.ttf);
+}
+
+body{
+    font-family: play-reg;
+    background-color: var(--s-gray-bg);
+}
+
+.small{font-size: 0.75em;}
+
+
+section p,h1,h2,h3,h4,h5,h6,small{
+    color: var(--dd-gray-text);
+    padding: 1.25em;
+    padding-left: 3em;
+    padding-right: 3em;
+    text-align: justify;
+}
+section p{
+    text-indent: 3em;
+}

@@ -1,0 +1,18 @@
+{
+    "articles": [
+        {
+            "Title": "Teste",
+            "Data" : ["<h1>Hello!</h1>",
+                "<p>",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porta sed quam eu commodo. Sed ut ante molestie, fringilla dui tincidunt, aliquam massa. Morbi non interdum tellus. Curabitur in odio et nunc pellentesque lobortis. Donec varius non dolor nec luctus. Curabitur aliquam maximus finibus. Fusce elit velit, cursus ut est et, vestibulum aliquam eros. Mauris suscipit quis tortor in venenatis. Mauris at egestas magna. Maecenas orci risus, rhoncus pharetra egestas quis, viverra ut nisi.",
+                "Curabitur aliquam neque nisi, et bibendum arcu vulputate et. Mauris elit enim, lacinia eget pharetra et, efficitur eget orci. Sed in consectetur erat. Proin ultrices velit a pellentesque ornare. Nullam sed faucibus velit. Morbi sed consequat lectus. Pellentesque dapibus ornare orci at hendrerit. Mauris vulputate, quam quis vestibulum ultrices, diam tortor consequat turpis, quis cursus metus quam eget risus. Phasellus quis venenatis orci, at rhoncus purus. Duis semper lorem id lacinia malesuada.",
+                "Ut rhoncus nisi a odio euismod vestibulum. Quisque lorem risus, pretium nec felis ac, egestas malesuada lorem. Nulla molestie ex fringilla viverra posuere. In mollis consequat mauris, id dictum urna pharetra a. Aliquam non enim sed nunc pharetra euismod porta eget leo. Nulla eu velit ac ex consectetur bibendum. Vivamus lacus justo, ornare quis est et, interdum maximus massa.",
+                "Fusce laoreet nisi felis, vel dignissim risus aliquet et. Sed sem diam, molestie a malesuada ac, rutrum a dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras dapibus fermentum ipsum dapibus eleifend. Vestibulum ultrices, quam id rhoncus semper, urna nunc sollicitudin ligula, et dictum sem ante vel velit. Ut quis lobortis leo, ac blandit massa. Donec sodales porttitor est at bibendum.",
+                "Integer condimentum placerat metus, quis varius massa fermentum non. Fusce in enim feugiat, fringilla risus bibendum, finibus arcu. Sed velit dolor, convallis at metus sed, vehicula consequat magna. Sed nec est vitae dolor hendrerit volutpat. Nam quam urna, convallis vel convallis gravida, tempus sit amet ligula. Mauris est massa, semper sit amet varius sed, sollicitudin vitae leo. Phasellus risus metus, dignissim vitae varius non, ultricies sit amet tortor. Ut molestie pulvinar lorem, in ornare sapien maximus at. Cras turpis dolor, aliquet a dolor mattis, sodales facilisis ante. Donec bibendum, libero malesuada porttitor malesuada, enim felis mollis tellus, in lacinia odio dui quis sem. Cras lectus quam, porta vulputate tortor non, accumsan tempus ipsum. Sed volutpat ac nisi non auctor. In at orci ut nisl ornare vulputate. Nulla ac elit tincidunt, scelerisque nunc sit amet, malesuada diam. Vestibulum dignissim enim quis velit mollis, luctus facilisis sem euismod. Vivamus a malesuada leo, at lobortis libero.",
+            "</p>"],
+            "Date" : "08/10/2023",
+            "Autor":"Juliano De Lima",
+            "KW" :"teste"
+        }
+    ]
+}

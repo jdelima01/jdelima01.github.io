@@ -1,0 +1,54 @@
+:root {
+    --m-gray: #404040;
+
+    --d-gray-bg: #0d0d0d;
+
+    --menu-item: #009900
+     /*#006600*/;
+    --menu-item-hover: #00b300;
+    --menu-bg: #333333;
+
+    --d-gay-topbot-sep:#262626;
+
+
+    --l-green-saparator:#00b300;
+    --d-green-separator: #003300;
+    /*    #004d00;*/
+
+
+
+
+    --s-gray-bg: #a7a7a7;
+    --s-gray-text: #a7a7a7;
+
+
+    --dd-gray-text: #1a1a1a;
+    --dd-gray-bg: #1a1a1a;
+
+}
+
+* {
+    caret-color: transparent;
+    cursor: default;
+}
+
+html {
+    min-width: 100vw;
+    max-width: 100vw;
+
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+
+    min-height: 100vh;
+    max-width: 100vw;
+}
+
+body {
+    background-color: #262626;
+}
